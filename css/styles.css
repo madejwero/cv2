@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+}
+
+h1 {
+  margin: 70px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Comfortaa', cursive;
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Comfortaa', cursive;
+  color: #11999E;
+  font-size: 2rem;
+  margin: 0;
+}
+
+a {
+  color: #11999E;
+}
+
+hr {
+  width: 6%;
+  border-style: dotted;
+  border-width: 10px 0 0 0;
+  border-color: #eaf6f6;
+  margin: 100px auto 100px auto;
+}
+
+span {
+  font-style: italic;
+}
+
+p {
+  font-size: 1.25rem;
+  color: #40514E;
+  line-height: 2;
+}
+
+.bottom-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  height: auto;
+  width: auto;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 0;
+}
+
+.cat-img {
+  width: 10%;
+  margin-top: 30px;
+}
+
+.webdev-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.accounting-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  margin: 0;
+  position: relative;
+  padding-bottom: 5px;
+}
+
+.skill-row {
+  text-align: left;
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  padding-top: 20px;
+  width: 50%;
+}
+
+.profile {
+  padding-top: 40px;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.attribution {
+  font-size: 10px;
+  margin: 0;
+}
+
+.copyright {
+  margin: 0;
+  color: #eaf6f6;
+  padding: 20px 0 10px;
+  font-size: 1rem;
+
+}
+
+.icon {
+  height: 30px;
+  margin: 20px 5px 20px 5px;
+}
+
+a {
+  text-decoration: none;
+}
